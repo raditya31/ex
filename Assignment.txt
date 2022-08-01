@@ -1,0 +1,40 @@
+
+
+Assignment:
+
+	1.Download Selenium IDE for Chrome.
+	2.Launch your node js or Java Web Application 
+	3.Access web site url and record walkthough or your web site.
+	4.Playback web site walk through.
+	5.Generate script C# , Java and javascript using  selenium.
+	6.Explore three code files.
+	7.Explore Hello solution created during training.
+
+
+	1.Create a blank solution ECommerce.
+	2.Add new Console Application .net Framework Project with name ShoppingConsole.
+	3.Add New Class Person class.
+	4.Add private data members to Person class
+		 firstname (string), lastname(string) , birthdate(DateTime), location(string).
+	5.Add two constructors to Person class. default constructor and paramerized constructor 
+	6.Add Properties to Person class using getter and setter block for each private member declared above.
+	7.Override ToString method
+	8.Add Destrctor to Person Class.
+
+	10.Add new Class Customer.
+	11.Extend Customer class from Person class.
+	12.Add data members to Customer class customerid (int), contactNumber (string), email (string).
+	13.Add parameterized constructor to Customer class.
+	14.Add Properties to Customer Class for data members declared above .
+	
+	15.Add Product class to Class   Project.
+	17.Add auto properites to Product class for ID, Title, Description, UnitPrice (double), Quantity(int).
+	18.Add parametrized constructor to Product class.
+	19.Add static Count property to Product class.
+	20.Increment Count while each instance of Product class created;
+	21.Overide ToString method in Product class.
+
+	22.Test all classes with their functionality in Main method of Project.
+
+
+
